@@ -9,7 +9,7 @@ body {
 .header {
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 6px;
     border-radius: .3rem
 }
 
@@ -19,14 +19,16 @@ body {
     border-style: outset;
     border-width: 2px;
     border-color: black;
+    background-color: gray;
     margin: 10px 0px;
 
 }
 #mainScreen {
     border-style: solid;
     border-color: black;
-    border-width: 4px;
+    border-width: 7px;
     border-radius: .3rem
+
 }
 
 #transitionScreen {
@@ -34,6 +36,7 @@ body {
     border-color: black;
     border-width: 4px;
     border-radius: .3rem
+    background-color: gray;
 }
 
 #startBtnDiv {
