@@ -4,10 +4,10 @@
 var questionOne = {
     Q: "What Day Did Pearl Harbor Happen?",
     answers: {
-        A: "",
-        B: "",
-        C: "",
-        D: "",
+        A: "December 14th 1942",
+        B: "December 7th 1941",
+        C: "October 3rd 1939",
+        D: "July 2nd 1941",
     },
     answer: "B"
 }
@@ -15,10 +15,10 @@ var questionOne = {
 var questionTwo = {
     Q: "Who was a former dictator of Cuba?",
     answers: {
-        A: "",
-        B: "",
-        C: "",
-        D: "",
+        A: "Ernesto Che Guevara",
+        B: "Jorge Cordova",
+        C: "Fidel Castro",
+        D: "Camilo Cienfuegos",
     },
     answer: "C"
 }
@@ -26,10 +26,10 @@ var questionTwo = {
 var questionThree = {
     Q: "Who was the vice president to Ronald Reagan?",
     answers: {
-        A: "",
-        B: "",
-        C: "",
-        D: "",
+        A: "George Bush",
+        B: "Richard Nixon",
+        C: "Walter Mondale",
+        D: "Bill Clinton",
     },
     answer: "A"
 }
@@ -37,10 +37,10 @@ var questionThree = {
 var questionFour = {
     Q: "What was the name of the conflict between the US and the USSR?",
     answers: {
-        A: "",
-        B: "",
-        C: "",
-        D: "",
+        A: "World War 2",
+        B: "World War 1",
+        C: "The Falklands War",
+        D: "The Coldwar",
     },
     answer: "D"
 }
@@ -48,10 +48,10 @@ var questionFour = {
 var questionFive = {
     Q: "Who invented the atomic bomb?",
     answers: {
-        A: "",
-        B: "",
-        C: "",
-        D: "",
+        A: "J Robert Oppenheimer",
+        B: "Albert Einstein",
+        C: "Dr Jonas Salk",
+        D: "Hans Bethe",
     },
     answer: "A"
 }
